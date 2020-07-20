@@ -1,6 +1,6 @@
 # Hi, I'm Francisco 👋
 
-<img src="https://user-images.githubusercontent.com/27808014/87985822-27ede100-cad4-11ea-823e-0225340fc1bd.png" alt="Francisco Vaz banner">
+<img src="https://user-images.githubusercontent.com/27808014/87986858-9a12f580-cad5-11ea-9acc-a777965675a5.png" alt="Francisco Vaz banner">
 
 I'm a Frontend Web Developer for Altice Labs in Aveiro, Portugal.
 I'm confident, naturally curious and I'm easily inspired, by me and by others, to follow my thoughts wherever they take me.
