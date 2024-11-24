@@ -14,4 +14,4 @@ I have always one thought in my head:
 
 ## Reach me:
 - <a href="https://www.linkedin.com/in/francisco-vaz/" target="_blank"> LinkedIn </a>
-- <a href="http://www.franciscovaz.pt/" target="_blank"> Francisco Vaz Website </a>
+- <a href="https://franciscovaz.github.io/website/" target="_blank"> Francisco Vaz Website </a>
